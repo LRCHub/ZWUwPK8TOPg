@@ -1,0 +1,43 @@
+# Bonobo – Tides
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:19.57] We cloud people, we live in gray
+[00:27.21] What we don't need release in rain
+[00:34.75] We cloud people, we never stay
+[00:42.48] We hold our freedom like a plane
+[00:58.48] 
+[00:49.23] We won't be dry soon
+[00:52.99] Here come the tides
+[00:56.65] You move when I do
+[01:00.26] You'll never be mine
+[01:10.26] 
+[01:04.32] We won't be dry soon
+[01:08.28] Here come the tides
+[01:12.07] You move when I do
+[01:15.49] You'll never be mine
+[01:25.49] 
+[01:19.11] I'm not supposed to feel, I'm not supposed to miss
+[01:22.90] How am I supposed to heal? How am I supposed to fit?
+[01:26.72] A little awkward then a little oxygen
+[01:30.69] I let you get away, I held the ocean in
+[01:50.19] 
+[01:35.16] We cloud people, we live in gray
+[01:42.12] If you love me, let me float away
+[01:58.62] 
+[01:49.83] We won't be dry soon (won't be dry)
+[01:53.45] Here come the tides
+[01:57.10] You move when I do (won't be mine)
+[02:00.71] You'll never be mine
+[02:10.71] 
+[02:04.84] We won't be dry soon (won't be dry)
+[02:08.70] Here come the tides
+[02:12.54] You move when I do (won't be mine)
+[02:15.82] You'll never be mine
+[02:25.82] 
+[02:19.97] We won't be dry soon (won't be dry)
+[02:23.61] Here come the tides
+[02:27.63] You move when I do (won't be mine)
+[02:30.92] You'll never be mine
+```
