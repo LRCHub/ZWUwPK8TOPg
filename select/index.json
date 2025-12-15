@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Tides",
+  "base_artist": "Bonobo",
+  "createdAt": "2025-12-15T16:28:23.216069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tides",
+      "artist": "Megafaun",
+      "has_synced": false,
+      "path": "select/01_Tides_Megafaun.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tides of the Moon",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/02_Tides_of_the_Moon_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Tides",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/03_Sweet_Tides_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tides (feat. Jamila Woods)",
+      "artist": "Bonobo feat. Jamila Woods",
+      "has_synced": true,
+      "path": "select/04_Tides_(feat._Jamila_Woods)_Bonobo_feat._Jamila_Woods.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tides (feat. Jamila Woods)",
+      "artist": "Bonobo",
+      "has_synced": true,
+      "path": "select/05_Tides_(feat._Jamila_Woods)_Bonobo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tides",
+      "artist": "Arovane",
+      "has_synced": false,
+      "path": "select/06_Tides_Arovane.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tides",
+      "artist": "The xx",
+      "has_synced": true,
+      "path": "select/07_Tides_The_xx.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tides",
+      "artist": "Bonobo",
+      "has_synced": true,
+      "path": "select/08_Tides_Bonobo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tides of the Moon",
+      "artist": "Elysian Fields",
+      "has_synced": false,
+      "path": "select/09_Tides_of_the_Moon_Elysian_Fields.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Like the Tides",
+      "artist": "Crematory",
+      "has_synced": false,
+      "path": "select/10_Like_the_Tides_Crematory.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Change of Tides",
+      "artist": "Visions of Atlantis",
+      "has_synced": true,
+      "path": "select/11_Change_of_Tides_Visions_of_Atlantis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tides of Time",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/12_Tides_of_Time_Epica.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Moon, Turn the Tides...gently gently away",
+      "artist": "The Jimi Hendrix Experience",
+      "has_synced": false,
+      "path": "select/13_Moon,_Turn_the_Tides...gently_gently_away_The_Jimi_Hendrix_Experience.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rise Above the Tides",
+      "artist": "Trivium",
+      "has_synced": true,
+      "path": "select/14_Rise_Above_the_Tides_Trivium.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tides (feat. Jamila Woods)",
+      "artist": "Bonobo",
+      "has_synced": false,
+      "path": "select/pl_01_Tides_(feat._Jamila_Woods)_Bonobo.txt"
+    }
+  ]
+}
